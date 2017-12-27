@@ -1,0 +1,54 @@
+
+body {
+	background-color:black;
+	background-image: url(../img/calcback.jpeg);
+	background-size: cover;
+}
+
+#device {
+padding : 10px;
+	max-width: 380px;
+	min-height:400px;
+	max-height: 500px;
+    min-width: 300px;
+    margin-top: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius:7px;
+	background: #999999;
+
+}
+.screen {
+	width:90%;
+	background-color:#D0F5A9;
+	height: 40px;
+    margin: auto;
+    margin-top: 20px;
+}
+#printHere {
+	position: absolute;
+	margin-left: 10px;
+}
+.screen p {
+	float:right;
+	margin-right:10px;
+}
+.buttons {
+	display: inline-block;
+	color: #222222;
+	text-align:center;
+	background-color:#888888;
+	width:65px;
+	height:40px;
+	border-radius:5px;
+	margin-left:-17px;
+	margin-top:20px;
+}
+#clear {
+	color: red;
+}
+#clearEquation {
+	color: red;
+}
+
+
