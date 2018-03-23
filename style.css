@@ -1,26 +1,29 @@
 
 body {
-	background-color:black;
-	background-image: url(../img/calcback.jpeg);
+	background-color: black;
+	background-image: url("http://sortmybooks.com/wp-content/uploads/2015/11/scary-accountant.jpg");
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #device {
 padding : 10px;
-	max-width: 380px;
-	min-height:400px;
+	max-width: 300px;
+	min-height: 400px;
 	max-height: 500px;
-    min-width: 300px;
-    margin-top: 10%;
+    min-width: 200px;
+    margin-top: 5%;
     margin-right: auto;
-    margin-left: auto;
-    border-radius:7px;
-	background: #999999;
+    margin-left: 5%;
+    border-radius: 7px;
+	background: #000000;
+	opacity: .7;
 
 }
 .screen {
 	width:90%;
 	background-color:#D0F5A9;
+	opacity: .9;
 	height: 40px;
     margin: auto;
     margin-top: 20px;
